@@ -1,0 +1,1 @@
+include ':app', ':draw_picture_bitmap', ':draw_text', ':draw_path', ':draw_beisaier', ':draw_fill_type', ':dispatch_event', ':motion_event', ':draw_region', ':draw_matrix'

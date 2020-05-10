@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dispatch_event/dispatch_event.iml" filepath="$PROJECT_DIR$/dispatch_event/dispatch_event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_beisaier/draw_beisaier.iml" filepath="$PROJECT_DIR$/draw_beisaier/draw_beisaier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_fill_type/draw_fill_type.iml" filepath="$PROJECT_DIR$/draw_fill_type/draw_fill_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_matrix/draw_matrix.iml" filepath="$PROJECT_DIR$/draw_matrix/draw_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_path/draw_path.iml" filepath="$PROJECT_DIR$/draw_path/draw_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_picture_bitmap/draw_picture_bitmap.iml" filepath="$PROJECT_DIR$/draw_picture_bitmap/draw_picture_bitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_region/draw_region.iml" filepath="$PROJECT_DIR$/draw_region/draw_region.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_text/draw_text.iml" filepath="$PROJECT_DIR$/draw_text/draw_text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motion_event/motion_event.iml" filepath="$PROJECT_DIR$/motion_event/motion_event.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dispatch_event" />
+            <option value="$PROJECT_DIR$/draw_beisaier" />
+            <option value="$PROJECT_DIR$/draw_fill_type" />
+            <option value="$PROJECT_DIR$/draw_matrix" />
+            <option value="$PROJECT_DIR$/draw_path" />
+            <option value="$PROJECT_DIR$/draw_picture_bitmap" />
+            <option value="$PROJECT_DIR$/draw_region" />
+            <option value="$PROJECT_DIR$/draw_text" />
+            <option value="$PROJECT_DIR$/motion_event" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
